@@ -24,7 +24,7 @@ A CUDA-enabled GPU is recommended because the preprocessing and training scripts
 
 ## Download Data
 
-This repository uses six datasets, including dataset descriptions for Auto, Video, Tools, Baby, Yelp2013, and Yelp2017. Put the downloaded raw data files into the folder "pro_data/". The Amazon review datasets can be downloaded from [Amazon Product Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html), and the Yelp datasets can be downloaded from [Yelp Open Dataset](https://www.yelp.com/dataset).
+Our paper uses six datasets, including datasets of Auto, Video, Tools, Baby, Yelp2013, and Yelp2017. Put the downloaded raw data files into the folder "pro_data/". The Amazon review datasets can be downloaded from [Amazon Product Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html), and the Yelp datasets can be downloaded from [Yelp Open Dataset](https://www.yelp.com/dataset).
 
 
 ## Pretrained Resources
