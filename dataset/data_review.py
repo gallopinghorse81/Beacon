@@ -8,7 +8,7 @@ from torch.utils.data import Dataset
 class ReviewData(Dataset):
 
     def __init__(self, root_path, mode):
-        if mode == 'Train':
+        if mode == 'Train':# this is the trainging part
             path = os.path.join(root_path, 'train/')
             print('loading train data')
             self.data = np.load(path + 'Train.npy', encoding='bytes')
