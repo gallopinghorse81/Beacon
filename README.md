@@ -81,7 +81,7 @@ checkpoints/
 
 ## Acknowledgement
 
-The structure of this repository is based on the [Neu-Review-Rec](https://github.com/ShomyLiu/Neu-Review-Rec) implementation of NRPA [1], and we thank the authors for releasing their implementation.
+The structure of this repository is based on the [Neu-Review-Rec](https://github.com/ShomyLiu/Neu-Review-Rec) implementation of NRPA[1], and we thank the authors for releasing their implementation.
 
 ## References
 
