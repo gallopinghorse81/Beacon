@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the model implementation of our paper, the preprocessing pipeline, BERTopic-based aspect generation, and the main training and evaluation scripts for our paper.
+This repository contains the model implementation of Beacon, the preprocessing pipeline, BERTopic-based aspect generation, and the main training and evaluation scripts for our paper.
 
 ## Overview
 
