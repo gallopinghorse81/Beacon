@@ -78,3 +78,11 @@ Model checkpoints are saved in:
 ```text
 checkpoints/
 ```
+
+## Acknowledgement
+
+The structure of this repository is based on the [Neu-Review-Rec](https://github.com/ShomyLiu/Neu-Review-Rec) implementation of NRPA [1], and we thank the authors for releasing their implementation.
+
+## References
+
+[1] H. Liu, F. Wu, W. Wang, X. Wang, P. Jiao, C. Wu, and X. Xie, "[NRPA: Neural Recommendation with Personalized Attention](https://arxiv.org/abs/1905.12480)," arXiv:1905.12480, 2019.
