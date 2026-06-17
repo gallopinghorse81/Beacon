@@ -85,4 +85,4 @@ The structure of this repository is based on the [Neu-Review-Rec](https://github
 
 ## References
 
-[1] H. Liu, F. Wu, W. Wang, X. Wang, P. Jiao, C. Wu, and X. Xie, "[NRPA: Neural Recommendation with Personalized Attention](https://arxiv.org/abs/1905.12480)," arXiv:1905.12480, 2019.
+[1] H. Liu, F. Wu, W. Wang, X. Wang, P. Jiao, C. Wu, and X. Xie. NRPA: Neural Recommendation with Personalized Attention. In SIGIR, 1233-1236(2019).
